@@ -8,6 +8,6 @@ Check out my website: https://jayxtq.xyz
 
 [![Top Langs](https://readme-stats-breno.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/618689346828238848)](https://discord.com/users/618689346828238848)
+[![Discord Presence](https://lanyard.cnrad.dev/api/618689346828238848?hideStatus=true&hideBadges=false&borderRadius=5px)](https://discord.com/users/618689346828238848)
 
 ![Profile View](https://komarev.com/ghpvc/?username=jayxtq&color=blueviolet)
