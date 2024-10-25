@@ -6,4 +6,4 @@
 
 ### Hey there
 
-Check out my website: https://jayxtq.xyz
+Check out my website: https://jxtq.moe
